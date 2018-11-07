@@ -1,0 +1,2 @@
+Usuario: [teste], logou no sistema na data [18:10:56 27/09/2018].
+Usuario: [admin], logou no sistema na data [18:11:00 27/09/2018].
